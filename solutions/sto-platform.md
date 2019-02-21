@@ -4,7 +4,7 @@ For bond funds, etc.
 
 ## Benefits
 
-By combining the advantages of blockchain and classical investment instruments, tokenisation can have tremendous effects on trading and investment across borders. The benefits of tokenization are numerous and can be summarised as follows:
+By combining the advantages of blockchain and classical investment instruments, tokenization can have tremendous effects on trading and investment across borders. The benefits of tokenization are numerous and can be summarised as follows:
 
 * Improves liquidity of assets like real estate
 * Allows fractional ownership
@@ -42,6 +42,13 @@ ERC 1404
 
 * [Neufund](https://neufund.org/)
 * [Tokeny](https://tokeny.com/)
+* [Smartlands](https://smartlands.io/)
+* [Polymath](https://polymath.network/)
+* [Swarm](https://www.swarm.fund/)
+* []()
+* []()
+* []()
+* []()
 
 ## References
 
